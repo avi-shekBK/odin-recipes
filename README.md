@@ -1,0 +1,2 @@
+# Odin Recipes
+Proud to complete the fist project of the odin project. I am hoping the the journey ahead will be much more interesting and delightful. Its also very inspiring to see other peoples first html project from odin project.
